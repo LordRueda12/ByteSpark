@@ -59,32 +59,31 @@ Cards = [
     },
     {
         title: "Is the  Pollution a big deal ?",
-        description: "Chemicals, plastics, and other pollutants are severely affecting marine ecosystems. Ocean pollution is causing mass die-offs of fish, coral reefs, and other marine life. Microplastics have also been found in the food chain, affecting both animals and humans.",
+        description: "Chemicals, plastics, and other pollutants are severely affecting marine ecosystems.Ocean pollution is causing mass die-offs of fish, coral reefs, and other marine life. ",
         question: {
             title: "What type of pollution is primarily responsible for damaging marine ecosystems? ?",
             questions:[
                 "Soil pollution",
-                " Air pollution.",
                 "Noise pollution.",
                 "Water pollution."
             ],
-            answer: 3
+            answer: 2
         },
         front:`<iframe width="326" height="auto" src="https://www.youtube.com/embed/JaSe85Mcwp0" title="Environmental Pollution Animation 2  YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`,
         
     },
     {
         title: "What is Deforestation  ?",
-        description: "is the large-scale removal of forests, primarily for agricultural expansion, logging, infrastructure development, and urbanization. Forests are vital to maintaining ecological balance, and their destruction has severe consequences for the environment.",
+        description: "is the large-scale removal of forests, primarily for agricultural expansion,infrastructure development. Forests are vital to maintaining ecological balance, and their destruction has severe consequences for the environment.",
         question: {
             title: "What is the one of the main reasons for Deforestation ?",
             questions:[
                 "Agricultural expansion.",
-                "Creation of new infrastructure.",
+                "Help companyes to have more land.",
                 "To help animals find new homes.",
-                "option one, and option two are correct."
+                
             ],
-            answer: 3  ,
+            answer: 0  ,
             
             
         },
