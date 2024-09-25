@@ -11,6 +11,7 @@
 body{
    
     background-color: crimson;
+    overflow-x:hidden ;
     
 }
 .cards {

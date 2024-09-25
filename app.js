@@ -31,10 +31,14 @@ Cards = [
         question: {
             title: "Is the island visible from the space?",
             questions: [
-                "Yes, it's completely visible from the space",
-                "No, it's a myth."
+                "Yes, it's completely visible from the space.",
+                "No, it's a myth, the island is not that big."
+                
             ],
-            answer: 1
+            answer: 1 
+            
+            
+        
         },
         front: `<iframe width="326" height="auto" src="https://www.youtube.com/embed/vrPBYS5zzF8" title="How Big The Great Pacific Garbage Patch Really Is" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`,
     },{
@@ -43,7 +47,7 @@ Cards = [
         question: {
             title: " Which human activity is a major contributor to climate change? ?",
             questions:[
-                "Recycling",
+                "Recycling.",
                 "Air Polution",
                 "Deforestation."
                 
@@ -54,116 +58,128 @@ Cards = [
        
     },
     {
-        title: "The Garbage Island",
-        description: "In 1997 Captain Charles Moore was sailing from Hawaii to California when he noticed a steady stream of plastics bobbing in the ocean. He had discovered the Great Pacific Garbage Patch.",
+        title: "Is the  Pollution a big deal ?",
+        description: "Chemicals, plastics, and other pollutants are severely affecting marine ecosystems. Ocean pollution is causing mass die-offs of fish, coral reefs, and other marine life. Microplastics have also been found in the food chain, affecting both animals and humans.",
         question: {
-            title: "Is the island visible from the space ?",
+            title: "What type of pollution is primarily responsible for damaging marine ecosystems? ?",
             questions:[
-                "Yes, it's completely visible from the space",
-                "No, it's a myth."
+                "Soil pollution",
+                " Air pollution.",
+                "Noise pollution.",
+                "Water pollution."
             ],
-            answer: 1
+            answer: 3
         },
-        front:`<iframe width="326" height="auto" src="https://www.youtube.com/embed/vrPBYS5zzF8" title="How Big The Great Pacific Garbage Patch Really Is" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`,
-        moreInfo: "https://theoceancleanup.com/great-pacific-garbage-patch/"
+        front:`<iframe width="326" height="auto" src="https://www.youtube.com/embed/JaSe85Mcwp0" title="Environmental Pollution Animation 2  YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`,
+        
     },
     {
-        title: "The Garbage Island",
-        description: "In 1997 Captain Charles Moore was sailing from Hawaii to California when he noticed a steady stream of plastics bobbing in the ocean. He had discovered the Great Pacific Garbage Patch.",
+        title: "What is Deforestation  ?",
+        description: "is the large-scale removal of forests, primarily for agricultural expansion, logging, infrastructure development, and urbanization. Forests are vital to maintaining ecological balance, and their destruction has severe consequences for the environment.",
         question: {
-            title: "Is the island visible from the space ?",
+            title: "What is the one of the main reasons for Deforestation ?",
             questions:[
-                "Yes, it's completely visible from the space",
-                "No, it's a myth."
+                "Agricultural expansion.",
+                "Creation of new infrastructure.",
+                "To help animals find new homes.",
+                "option one, and option two are correct."
             ],
-            answer: 1
+            answer: 3  ,
+            
+            
         },
-        front:`<iframe width="326" height="auto" src="https://www.youtube.com/embed/vrPBYS5zzF8" title="How Big The Great Pacific Garbage Patch Really Is" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`,
-        moreInfo: "https://theoceancleanup.com/great-pacific-garbage-patch/"
+        front:`<iframe width="326" height="auto" src="https://www.youtube.com/embed/E_091pd_KHM" title="Environment Awareness Animation - The Effects of Deforestation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`,
+        
     },
     {
-        title: "The Garbage Island",
-        description: "In 1997 Captain Charles Moore was sailing from Hawaii to California when he noticed a steady stream of plastics bobbing in the ocean. He had discovered the Great Pacific Garbage Patch.",
+        title: "Endangered Animals",
+        description: "Some animals are called endangered because there aren’t many of them left in the world, and they could disappear forever.Every animal and plant is part of a food chain. Some animals eat plants, some animals eat other animals. If one species disappears, it can cause big problems for other animals in the food chain.",
         question: {
-            title: "Is the island visible from the space ?",
+            title: "If an animal become extinct is that a problem  ?",
             questions:[
-                "Yes, it's completely visible from the space",
-                "No, it's a myth."
+                "Yes, that might change the food chain and affect humans and animals",
+                "No, we can replace the animals with new ones."
             ],
-            answer: 1
+            answer: 0
         },
-        front:`<iframe width="326" height="auto" src="https://www.youtube.com/embed/vrPBYS5zzF8" title="How Big The Great Pacific Garbage Patch Really Is" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`,
-        moreInfo: "https://theoceancleanup.com/great-pacific-garbage-patch/"
+        front:`<iframe width="326" height="auto" src="https://www.youtube.com/embed/O0yNztpei_g" title="Let’s Protect the Endangered Animals🦁🐼 | Save the Earth🌎 | Green Earth Songs for Kids | JunyTony" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`,
+       
     },
     {
-        title: "The Garbage Island",
-        description: "In 1997 Captain Charles Moore was sailing from Hawaii to California when he noticed a steady stream of plastics bobbing in the ocean. He had discovered the Great Pacific Garbage Patch.",
+        title: "Water Shortage and future problems",
+        description: "A water shortage means that there isn’t enough clean water for people, animals, and plants to drink and use.",
         question: {
-            title: "Is the island visible from the space ?",
+            title: "What can happen if we keep polluting the oceans with plastic ?",
             questions:[
-                "Yes, it's completely visible from the space",
-                "No, it's a myth."
+                "Sea animals will have more food",
+                "The oceans will become cleaner",
+                "Sea animals might get hurt or die.",
+                "The oceans will dry up"
+                
             ],
-            answer: 1
+            answer: 2
         },
-        front:`<iframe width="326" height="auto" src="https://www.youtube.com/embed/vrPBYS5zzF8" title="How Big The Great Pacific Garbage Patch Really Is" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`,
-        moreInfo: "https://theoceancleanup.com/great-pacific-garbage-patch/"
+        front:`<iframe width="326" height="auto" src="https://www.youtube.com/embed/2BZslnorTEs" title="Best HD Animation for Water conflict/ Water Problems" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`,
+        
     },
     {
-        title: "The Garbage Island",
-        description: "In 1997 Captain Charles Moore was sailing from Hawaii to California when he noticed a steady stream of plastics bobbing in the ocean. He had discovered the Great Pacific Garbage Patch.",
+        title: "Habitat destruction",
+        description: "Habitat destruction is when the places where animals and plants live are damaged or destroyed. A habitat is the natural home of an animal or plant, like forests, oceans, or grasslands. When people cut down trees, build cities, or pollute the environment, animals and plants lose their homes.",
         question: {
-            title: "Is the island visible from the space ?",
+            title: "Animals can always find new homes when their habitats are destroyed. ?",
             questions:[
-                "Yes, it's completely visible from the space",
-                "No, it's a myth."
+                "TRUE",
+                "FALSE."
             ],
             answer: 1
         },
-        front:`<iframe width="326" height="auto" src="https://www.youtube.com/embed/vrPBYS5zzF8" title="How Big The Great Pacific Garbage Patch Really Is" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`,
-        moreInfo: "https://theoceancleanup.com/great-pacific-garbage-patch/"
+        front:`<iframe width="326" height="auto" src="https://www.youtube.com/embed/p7LDk4D3Q3U" title="The Turning Point" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`,
+        
     },
     {
-        title: "The Garbage Island",
-        description: "In 1997 Captain Charles Moore was sailing from Hawaii to California when he noticed a steady stream of plastics bobbing in the ocean. He had discovered the Great Pacific Garbage Patch.",
+        title: "Natural Resources Issues",
+        description: "Natural resources are things that we get from the Earth that help us live. These include water, air, trees, plants, soil, and minerals. We also use natural resources like oil, coal, and gas to make energy for cars, homes. But if we use too much or waste them, these resources can run out, or get damaged.",
         question: {
-            title: "Is the island visible from the space ?",
+            title: "We will never run out of water, no matter how much we use.",
             questions:[
-                "Yes, it's completely visible from the space",
-                "No, it's a myth."
+                "TRUE",
+                "FALSE"
             ],
             answer: 1
         },
-        front:`<iframe width="326" height="auto" src="https://www.youtube.com/embed/vrPBYS5zzF8" title="How Big The Great Pacific Garbage Patch Really Is" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`,
-        moreInfo: "https://theoceancleanup.com/great-pacific-garbage-patch/"
+        front:`<iframe width="326" height="auto" src="https://www.youtube.com/embed/axCR3uIn3Vs" title="Renewable and Non-renewable Resources" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`,
+        
     },
     {
-        title: "The Garbage Island",
-        description: "In 1997 Captain Charles Moore was sailing from Hawaii to California when he noticed a steady stream of plastics bobbing in the ocean. He had discovered the Great Pacific Garbage Patch.",
+        title: "Sea level rising",
+        description: "Sea level rise is when the water in the oceans gets higher and covers more land. This happens because of two main reasons: melting ice from glaciers and ice sheets, and the water in the oceans expanding as it gets warmer.",
         question: {
-            title: "Is the island visible from the space ?",
+            title: "What causes sea level rise ?",
             questions:[
-                "Yes, it's completely visible from the space",
-                "No, it's a myth."
+                " More fish in the ocean",
+                "More rain",
+                "Melting ice and warmer water",
+                "Stronger winds"
             ],
-            answer: 1
+            answer: 2
         },
-        front:`<iframe width="326" height="auto" src="https://www.youtube.com/embed/vrPBYS5zzF8" title="How Big The Great Pacific Garbage Patch Really Is" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`,
-        moreInfo: "https://theoceancleanup.com/great-pacific-garbage-patch/"
+        front:`<iframe width="326" height="auto" src="https://www.youtube.com/embed/msnOHuPep9I" title="NASA&#39;s Earth Minute: Sea Level Rise" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`,
+        
     },
     {
-        title: "The Garbage Island",
-        description: "In 1997 Captain Charles Moore was sailing from Hawaii to California when he noticed a steady stream of plastics bobbing in the ocean. He had discovered the Great Pacific Garbage Patch.",
+        title: "How Can we Help the Environment ?",
+        description: "Every small step helps when it comes to taking care of the Earth! By doing simple things like recycling, saving energy, and planting trees, we can make a big difference in helping the planet stay clean and healthy for future generations. "  ,
         question: {
-            title: "Is the island visible from the space ?",
+            title: "Are you ready for save the planer ?",
             questions:[
-                "Yes, it's completely visible from the space",
-                "No, it's a myth."
+                "Yes, absolutely ready",
+                
             ],
-            answer: 1
+            answer: 0 
+            
         },
-        front:`<iframe width="326" height="auto" src="https://www.youtube.com/embed/vrPBYS5zzF8" title="How Big The Great Pacific Garbage Patch Really Is" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`,
-        moreInfo: "https://theoceancleanup.com/great-pacific-garbage-patch/"
+        front:`<iframe width="326" height="auto" src="https://www.youtube.com/embed/gUhxcdzRgLQ" title="What Can You Do RIGHT NOW To Save The Earth?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>`,
+        
     }
     
 ];
